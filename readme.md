@@ -4,4 +4,3 @@
 
 ## Apps using Meteor Sugar:
 * [Meteor Barista](http://barista.meteor.com) - uses capitalization to ensure that foods/drinks are captialized when they are inserted/updated
-* [Meteor Leaflet](http://leaflet.meteor.com) - uses round to round random floats to whole numbers
