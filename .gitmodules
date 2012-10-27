@@ -1,0 +1,3 @@
+[submodule "lib/sugar"]
+	path = lib/sugar
+	url = https://github.com/andrewplummer/Sugar.git

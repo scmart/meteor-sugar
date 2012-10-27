@@ -1,0 +1,8 @@
+{
+  "name": "sugar",
+  "description": "Sugar.js, a Javascript library that extends native objects with helpful methods, packaged for Meteor. See http://sugarjs.com.",
+  "homepage": "https://github.com/bevanhunt/meteor-sugar",
+  "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
+  "version": "1.3.5",
+  "git": "https://github.com/bevanhunt/meteor-sugar.git"
+}
