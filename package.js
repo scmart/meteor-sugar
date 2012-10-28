@@ -3,6 +3,6 @@ Package.describe({
 });
 
 Package.on_use(function (api, where) {
-  where = where || ['client', 'server']
-  api.add_files('lib/sugar/release/1.3.5/sugar-1.3.5-full.development.js', where);
+  api.add_files('lib/sugar/release/1.3.5/sugar-1.3.5-full.development.js', 'client');
+  api.add_files('lib/sugar/release/1.3.5/sugar-1.3.5-full.development.js', 'server');
 });
