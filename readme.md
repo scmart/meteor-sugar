@@ -10,3 +10,6 @@ This package installs Sugar on both the client and server.
 
 ## Apps using Meteor Sugar:
 * [Meteor Barista](http://barista.meteor.com) - uses capitalization to ensure that foods/drinks are captialized when they are inserted/updated
+
+## License
+MIT/X11
