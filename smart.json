@@ -2,7 +2,7 @@
   "name": "sugar",
   "description": "Sugar.js, extends native objects with helpful methods. http://sugarjs.com",
   "homepage": "https://github.com/bevanhunt/meteor-sugar",
-  "author": "Bevan Hunt <me@bevanhunt.com> (http://www.bevanhunt.com)",
+  "author": "Bevan Hunt <bevan@bevanhunt.com> (http://www.bevanhunt.com)",
   "version": "0.1.0",
   "git": "https://github.com/bevanhunt/meteor-sugar.git"
 }
