@@ -18,6 +18,7 @@ step 2
       "branch": "master" 
     }
   }
+```
 
 ## Apps using Meteor Sugar:
 * [Meteor Barista](http://barista.meteor.com) - uses capitalization to ensure that foods/drinks are captialized when they are inserted/updated
