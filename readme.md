@@ -8,16 +8,7 @@ Current Version: 1.4.1
 
 ## How to install
 1. npm install -g meteorite (if not already installed)
-2. edit the smart.json to reference the github repo
-
-step 2
-```javascript
-  "packages": {
-    "sugar": {
-      "git": "https://github.com/bevanhunt/meteor-sugar.git",
-      "branch": "master" 
-    }
-  }
+2. mrt add sugar
 
 ## Apps using Meteor Sugar:
 * [Meteor Barista](http://barista.meteor.com) - uses capitalization to ensure that foods/drinks are captialized when they are inserted/updated
